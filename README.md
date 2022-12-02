@@ -20,7 +20,7 @@
 
   Execute `nvm use 14`, `yarn`, `npm i`, `bundle install`
   
-  create the db using `rails db:setup` or rails db:create & rails db:migrate
+  create the db using `rails db:setup` or `rails db:create` & `rails db:migrate`
   
   Execute `foreman start -f Procfile.dev` Hit the url - `http://localhost:3000/`
 
