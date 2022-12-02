@@ -1,0 +1,12 @@
+{
+  "entrypoints": {
+    "client-bundle": {
+      "assets": {
+        "js": [
+          "/packs/js/runtime.js"
+        ]
+      }
+    }
+  },
+  "runtime.js": "/packs/js/runtime.js"
+}
