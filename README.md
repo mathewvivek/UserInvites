@@ -18,7 +18,7 @@
 
   Unzip the zip file - UserInvites.zip
 
-  Execute `nvm use 14`, `yarn`, `npm i`, `bundle install`
+  Execute `nvm use 14`, bundle install`, `npm i`, `yarn`
   
   create the db using `rails db:setup` or `rails db:create` & `rails db:migrate`
   
